@@ -13,7 +13,7 @@
 ## 安裝（一行）
 
 ```bash
-git clone https://github.com/charlesjr0719dev/mnw-thinking-skill.git ~/.claude/skills/MNV
+git clone https://github.com/charlesjr0719dev/mnv-thinking-skill.git ~/.claude/skills/MNV
 ```
 
 完成。零設定、零路徑修改。
